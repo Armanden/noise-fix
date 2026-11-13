@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+soundfile>=0.12
+noisereduce>=3.0
+# Video processing (optional)
+# opencv-python>=4.8
+# moviepy>=1.0
+# ImageMagick (system package, needed by moviepy for text overlays)
